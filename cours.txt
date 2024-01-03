@@ -1,0 +1,8 @@
+cours de git & github 
+git init
+git clone
+git status 
+git commit
+git push
+git clone
+git add
